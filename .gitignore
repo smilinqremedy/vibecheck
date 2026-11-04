@@ -1,0 +1,24 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment and secrets (NEVER COMMIT REAL SECRETS)
+.env
+.env.*
+!.env.example
+
+# Local storage and cache files (preserves privacy, prevents committing local run artifacts)
+storage/*.json
+storage/*.csv
+storage/*.log
+!storage/.gitkeep
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
