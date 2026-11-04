@@ -86,11 +86,8 @@
   {
     "id": "R015",
     "event": "Echo Bass Carnival",
-    "text": "Fantastic visual projections and lasers",
-    "created_at": " although the volume was dangerously deafening.",
-    "null": [
-      "2026-07-04"
-    ]
+    "text": "Fantastic visual projections and lasers; although the volume was dangerously deafening.",
+    "created_at": "2026-07-04"
   },
   {
     "id": "R016",
