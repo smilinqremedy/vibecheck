@@ -15,6 +15,7 @@ htmlcov/
 storage/*.json
 storage/*.csv
 storage/*.log
+storage/*.txt
 !storage/.gitkeep
 
 # OS and Editor files
